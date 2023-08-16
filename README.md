@@ -19,6 +19,13 @@ In this repository, you'll find the projects I completed during my exciting inte
 - Folder: `/todolist`
 - Status: Completed
 
+🌟 Tribute Page Project:
+
+- Description: Designed a tribute page dedicated to a notable figure. The project allowed me to pay homage while honing my skills in HTML and CSS, 
+  crafting a visually appealing page with compelling content.
+- Folder: /tribute-page
+- Status: Completed
+
 🌟 Goals Achieved:
 - Mastered web development fundamentals including HTML, CSS, and JavaScript.
 - Gained experience in creating responsive and visually appealing user interfaces.
